@@ -1,25 +1,16 @@
 <h1 align="center">
-Hi there! This is Nebil Karaoglu.
-
-- 🔭 I’m currently working on Allianz Insurance Company as a Software Arhitect
+Hi there! This is Nebil.
 
 </h1>
-
-#### Contact
-
-<blockquote>
-<a href="https://www.linkedin.com/in/nebilkaraoglu" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
-</blockquote>
-
 
 <!---
 <img src=""><a href=""><img src=""><a href=""><img src="">
 --->
 
-[![Nebil's github stats](https://github-readme-stats.vercel.app/api?username=nebl&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Nebil's github stats](https://github-readme-stats.vercel.app/api?username=iamnebil&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Nebil's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nebl&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Nebil's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnebil&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -41,4 +32,4 @@ Hi there! This is Nebil Karaoglu.
 </blockquote>
 
 
-![](https://komarev.com/ghpvc/?username=nebl)
+![](https://komarev.com/ghpvc/?username=iamnebil)
