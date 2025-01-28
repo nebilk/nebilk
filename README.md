@@ -7,10 +7,10 @@ Hi there! This is Nebil.
 <img src=""><a href=""><img src=""><a href=""><img src="">
 --->
 
-[![Nebil's github stats](https://github-readme-stats.vercel.app/api?username=iamnebil&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Nebil's github stats](https://github-readme-stats.vercel.app/api?username=nebilk&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Nebil's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnebil&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Nebil's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nebilk&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -32,4 +32,4 @@ Hi there! This is Nebil.
 </blockquote>
 
 
-![](https://komarev.com/ghpvc/?username=iamnebil)
+![](https://komarev.com/ghpvc/?username=nebilk)
